@@ -25,7 +25,7 @@ SECRET_KEY = 'mv63^!l98^clcl=kx2ilu6j$#g^o!eau_t(+ps_x5j@k3(yiqy'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["maelin.pythoneverywhere.com"]
+ALLOWED_HOSTS = ['maelin.pythoneverywhere.com']
 
 
 # Application definition
